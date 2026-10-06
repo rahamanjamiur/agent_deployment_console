@@ -1,0 +1,6 @@
+{
+  "name": "Agent Deployment Console",
+  "description": "Configure and deploy AI agents to your workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
